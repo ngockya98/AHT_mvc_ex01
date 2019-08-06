@@ -1,0 +1,12 @@
+{
+	"require": {
+		"doctrine/orm": "^2.6.3"
+	},
+
+	"autoload": {
+		"psr-4": {
+			"AHT\\": "src/",
+			"orm\\": "vendor/"
+		}
+	}
+}
